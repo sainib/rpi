@@ -10,3 +10,14 @@ https://www.amazon.com/Smraza-Starter-Ultrasonic-distance-Raspberry/dp/B01MATM4X
 https://www.raspberrypi.org/documentation/usage/audio/
 
 
+-----
+
+https://github.com/issackelly/wemo
+https://hackaday.com/2013/02/23/wemo-without-a-smartphone/
+https://www.amazon.com/WeMo-Electronics-Anywhere-Automation-Smartphones/dp/B00BB2MMNE
+
+
+-----
+
+
+
