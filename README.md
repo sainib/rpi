@@ -20,4 +20,6 @@ https://www.amazon.com/WeMo-Electronics-Anywhere-Automation-Smartphones/dp/B00BB
 -----
 
 
+http://www.instructables.com/id/Raspberry-Pi-WEMO-Control-Center/
 
+https://www.google.com/search?q=wemo+raspberry+pi&oq=wemo+ra&aqs=chrome.1.69i57j0l3.4207j0j4&client=ms-unknown&sourceid=chrome-mobile&ie=UTF-8#xxri=0
