@@ -12,14 +12,7 @@ https://www.raspberrypi.org/documentation/usage/audio/
 
 -----
 
-https://github.com/issackelly/wemo
-https://hackaday.com/2013/02/23/wemo-without-a-smartphone/
-https://www.amazon.com/WeMo-Electronics-Anywhere-Automation-Smartphones/dp/B00BB2MMNE
-
+http://ouimeaux.readthedocs.io/en/latest/installation.html
 
 -----
 
-
-http://www.instructables.com/id/Raspberry-Pi-WEMO-Control-Center/
-
-https://www.google.com/search?q=wemo+raspberry+pi&oq=wemo+ra&aqs=chrome.1.69i57j0l3.4207j0j4&client=ms-unknown&sourceid=chrome-mobile&ie=UTF-8#xxri=0
